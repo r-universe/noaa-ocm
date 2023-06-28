@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "SWMPrExtension"]
 	path = SWMPrExtension
 	url = https://github.com/noaa-ocm/swmprextension
-	shallow = true
-	registered = true
